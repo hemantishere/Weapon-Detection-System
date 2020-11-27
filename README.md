@@ -20,8 +20,3 @@ Small Gun :  8.2903586e-02
 
 <hr>
 <br>
-
-<h3><b><u>References</u></b></h3>
-
- 1. Olmos, R., Tabik, S., & Herrera, F. (2018).<br>
- <a href="https://sci2s.ugr.es/weapons-detection#SW" >https://sci2s.ugr.es/weapons-detection#SW</a> <br><br>
